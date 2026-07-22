@@ -1,4 +1,5 @@
 restructuring and updating
+
 Campus Navigator is a web-based indoor navigation system designed to help students, staff, and visitors find their way across a multi-building campus. The campus consists of *4 buildings (A, B, C, AD), each with 3 floors, along with a master overview map showing all buildings together.
 
 The system allows an admin to upload SVG floor plans for each floor and mark up rooms, staircases, and corridors as nodes directly on an interactive map editor. Once the graph data is in place, the app can generate the shortest path between any two rooms and display it visually on the floor plan.
